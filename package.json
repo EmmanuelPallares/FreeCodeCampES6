@@ -1,0 +1,14 @@
+{
+  "name": "freecodecampes6",
+  "version": "1.0.0",
+  "description": " exercises and challenges",
+  "main": "spreadOperator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": "Emmanuel Pallares",
+  "license": "ISC"
+}
