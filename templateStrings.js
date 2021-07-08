@@ -64,6 +64,7 @@ const skipedListTotal = skipedList1(result.skipped);
 const allList = [resultError, resultSuccess, skipedListTotal];
 console.log(allList);
 
+//Another example
 const miHtml = {
   h1: ["soy un h1", "soy un h2", "soy un h3", "soy un h4"],
   p: [
